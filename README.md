@@ -1,4 +1,4 @@
-# 🧠 Artificial Neural Networks
+# 🧠 Geometric Shape Classifier
 
 A MATLAB project focused on image classification using **Feedforward Artificial Neural Networks (ANNs)**.
 
@@ -117,6 +117,6 @@ ArtificialNeuralNetworks/
 ## 📄 License
 
 
-This project was developed for the **Artificial Neural Networks** course at the **Instituto Superior de Engenharia de Coimbra (ISEC)**.
+This project was developed for the **Knowledge and Reasoning** course at the **Instituto Superior de Engenharia de Coimbra (ISEC)**.
 
 It is intended for educational purposes.
